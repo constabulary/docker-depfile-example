@@ -25,6 +25,7 @@ github.com/mattn/go-shellwords		version=1.0.0
 github.com/boltdb/bolt			version=1.2.1
 
 github.com/coreos/etcd			version=2.3.7
+github.com/coreos/go-systemd		version=9
 
 github.com/hashicorp/consul		version=0.6.4
 github.com/hashicorp/serf		version=0.7.0
@@ -34,3 +35,14 @@ github.com/deckarep/golang-set		version=1.5
 github.com/godbus/dbus			version=4.0.0
 
 github.com/pkg/errors			version=0.7.0
+
+github.com/tchap/go-patricia		version=2.2.3
+github.com/opencontainers/specs		version=1.0.0-rc1
+
+github.com/aws/aws-sdk-go		version=1.1.36
+
+github.com/go-ini/ini			version=1.12.0
+
+github.com/fluent/fluent-logger-golang	version=1.1.0	
+
+github.com/tinylib/msgp			version=1.0-beta
