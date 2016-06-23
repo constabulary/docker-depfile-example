@@ -25,3 +25,12 @@ github.com/mattn/go-shellwords		version=1.0.0
 github.com/boltdb/bolt			version=1.2.1
 
 github.com/coreos/etcd			version=2.3.7
+
+github.com/hashicorp/consul		version=0.6.4
+github.com/hashicorp/serf		version=0.7.0
+
+github.com/deckarep/golang-set		version=1.5
+
+github.com/godbus/dbus			version=4.0.0
+
+github.com/pkg/errors			version=0.7.0
